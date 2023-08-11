@@ -10,7 +10,7 @@ The POSEmuse Doodle App is a pocket-sized art studio designed to help aspiring a
 
 - [About](./about): Introduction and features of the POSEmuse Doodle App.
 - [Privacy Policy](./privacy-policy): Information on our commitment to user privacy and data protection.
-- [Copyright Notice](./copyright-notice): Details on copyright restrictions and usage permissions for the app's content.
+- [Copyright Notice](./copyright): Details on copyright restrictions and usage permissions for the app's content.
 
 ## Contact Information
 
