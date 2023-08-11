@@ -12,7 +12,7 @@ We are committed to respecting and protecting your privacy. Read our detailed [P
 
 ## Copyright Notice
 
-Please review the [Copyright Notice](./copyright-notice) for information on copyright restrictions and permissions related to the app's content.
+Please review the [Copyright Notice](./copyright) for information on copyright restrictions and permissions related to the app's content.
 
 ## Get in Touch
 
